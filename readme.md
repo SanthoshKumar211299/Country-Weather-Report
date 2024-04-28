@@ -20,9 +20,9 @@ Constraints:
   
 . Display the below values in the Bootstrap card.
 
-o Latlng              o Region
+o Latlng                     o Region
 
-o Name                o Country codes
+o Name                       o Country codes
 
-O Flag                o Capital
+o Flag                       o Capital
 
